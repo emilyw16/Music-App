@@ -1,6 +1,3 @@
-//  ContentView.swift
-//  War Card Game
-
 import SwiftUI
 
 struct ContentView: View {
